@@ -12,6 +12,7 @@ Docker Desktop软件的中文汉化，涵盖Windows版本，MacOS版本。
 
 5、已经将源码也上传，如有汉化不完整的地方，可以自行汉化打包。
 
+6、4.28版本下载地址：https://www.123pan.com/s/Hjryjv-MsNPH.html 提取码:MrzV
 <p><img src="https://raw.githubusercontent.com/tangyabo/Docker-Desktop-ZH/main/%E6%B1%89%E5%8C%96%E6%88%AA%E5%9B%BE/Windows/1.jpg"></p>
 <p><img src="https://raw.githubusercontent.com/tangyabo/Docker-Desktop-ZH/main/%E6%B1%89%E5%8C%96%E6%88%AA%E5%9B%BE/Windows/2.jpg"></p>
 <p><img src="https://raw.githubusercontent.com/tangyabo/Docker-Desktop-ZH/main/%E6%B1%89%E5%8C%96%E6%88%AA%E5%9B%BE/Windows/3.jpg"></p>
@@ -28,5 +29,6 @@ Docker Desktop软件的中文汉化，涵盖Windows版本，MacOS版本。
 
 5、已经将源码也上传，如有汉化不完整的地方，可以自行汉化打包。
 
+6、4.28版本(Apple芯片)下载地址：https://www.123pan.com/s/Hjryjv-wsNPH.html 提取码:xOcw
 ### 重要说明
 1、为什么不汉化最新版本，最新版的Windows(4.31.1)\Mac(4.31.0)反编译文件可能存在未知的问题。
