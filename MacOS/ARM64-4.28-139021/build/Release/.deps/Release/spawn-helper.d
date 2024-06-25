@@ -1,0 +1,1 @@
+cmd_Release/spawn-helper := c++ -Wl,-search_paths_first -mmacosx-version-min=10.7 -arch arm64 -L./Release -stdlib=libc++  -o "Release/spawn-helper" ./Release/obj.target/spawn-helper/src/unix/spawn-helper.o 
